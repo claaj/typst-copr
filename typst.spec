@@ -1,6 +1,6 @@
 Name:       typst
-Version:    0.13.1
-Release:    2
+Version:    0.14.2
+Release:    1
 Summary:    A new markup-based typesetting system that is powerful and easy to learn.
 
 License:    Apache-2.0
