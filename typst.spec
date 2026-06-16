@@ -1,5 +1,5 @@
 Name:       typst
-Version:    0.14.2
+Version:    0.15.0
 Release:    1
 Summary:    A new markup-based typesetting system that is powerful and easy to learn.
 
